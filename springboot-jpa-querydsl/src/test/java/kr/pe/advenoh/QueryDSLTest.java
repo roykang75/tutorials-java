@@ -1,3 +1,4 @@
+    @Test
 package kr.pe.advenoh;
 
 import com.querydsl.core.types.Projections;
