@@ -118,6 +118,7 @@
                 <module>springboot-jpa-one-to-one-bidirectional-target</module>
                 <module>springboot-jpa-repeated-columns-problem</module>
                 <module>springboot-exception-handler</module>
+                <module>springboot-jpa-querydsl</module>
             </modules>
         </profile>
     </profiles>
